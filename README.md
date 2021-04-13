@@ -1,2 +1,2 @@
 # Control System Design MATLAB
- Some project code I made for class
+ Some project MATLAB code I made for my control systems class
